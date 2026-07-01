@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0130/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘入道次第開決
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2823.xml
+    old_id: T85n2823
+hash: sha256:79a8f3ccb3d6ffa9ac9ca3fd19e5a310eaf2b80640324d7b30ec0f5b92577f15

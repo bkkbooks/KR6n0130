@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6n0130/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0130/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘入道次第開決
+  identifiers:
+    krp: KR6n0130
+    cbeta: T85n2823
+    cbeta_old_id: T85n2823
+    authorityid: CA0004843
+    json_key: T2823
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2823.xml
+    old_id: T85n2823
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0130_000-T.yaml, hash: 'sha256:79a8f3ccb3d6ffa9ac9ca3fd19e5a310eaf2b80640324d7b30ec0f5b92577f15'}
+  - {seq: 1, filename: KR6n0130_001-T.yaml, hash: 'sha256:900551001e219d327f2464c9484e4aeb18c1635c4373de73dcd84401c720936e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0130_000-T.markers.yaml, hash: 'sha256:3433a855b261216c3888474be0101de23e5b62c8f47f1d82d4ade9cbfa67cc68'}
+  - {seq: 1, role: markers, filename: assets/KR6n0130_001-T.markers.yaml, hash: 'sha256:4230fba2386790dac55c9b4fc29fbafd8eef7a874308d80e8e1133f9f0842cc1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0130_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 21799
+  label: 大乘入道次第開決
+  type: juan
+  level: 1
+hash: sha256:22c80dc39ecc9ee7a945c55c1e96aa36f0b388127e3891aaebedb734c02b097b
