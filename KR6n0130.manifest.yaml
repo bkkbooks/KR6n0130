@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0130_000.yaml, hash: 'sha256:79a8f3ccb3d6ffa9ac9ca3fd19e5a310eaf2b80640324d7b30ec0f5b92577f15'}
-  - {seq: 1, filename: KR6n0130_001.yaml, hash: 'sha256:9da9d0a0b71e84e0f132c974b53dea22559d5dce889d1294e4cab49cd4fefc74'}
+  - {seq: 1, filename: KR6n0130_001.yaml, hash: 'sha256:900551001e219d327f2464c9484e4aeb18c1635c4373de73dcd84401c720936e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0130_001.markers.yaml, hash: 'sha256:d9934360f2aaf8f0969704a00476dd5e15687940927a9801446f36a0e094fc42'}
+  - {seq: 0, role: markers, filename: assets/KR6n0130_000.markers.yaml, hash: 'sha256:a384c37813220a4c5ea69b883f5355801dcbdf57c9fda2ba0b866c080b1e2ec8'}
+  - {seq: 1, role: markers, filename: assets/KR6n0130_001.markers.yaml, hash: 'sha256:ef0aac9aad98b03d77c4c7f2f0312a99e9123bedb79ae4331851d554acb361fc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 大乘入道次第開決
   type: juan
   level: 1
-hash: sha256:ca72e73e2bbef7a10bd33e30c14ee071deea15e85d99aa0c078a01b5448521bd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:dab5a4cf96813beac8b8e5f9acf38e217d955989543b1a6df6cb0d8b42f3ffd5
